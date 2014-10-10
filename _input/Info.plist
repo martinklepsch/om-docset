@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>Erlang</string>
+	<string>Om</string>
 	<key>CFBundleName</key>
-	<string>Erlang</string>
+	<string>Om</string>
 	<key>DocSetPlatformFamily</key>
-	<string>Erlang</string>
+	<string>Om</string>
 	<key>isDashDocset</key>
 	<true/>
 </dict>
