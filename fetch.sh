@@ -1,2 +1,3 @@
-mkdir -p _output/erlang.docset/Contents/Resources/Documents
-wget -O _input/doc.tar.gz http://www.erlang.org/download/otp_doc_html_R15B01.tar.gz
+#!/bin/bash
+mkdir -p _output/om.docset/Contents/Resources/Documents
+curl -L https://github.com/swannodette/om/wiki/Documentation -o _input/om-documentation.html
